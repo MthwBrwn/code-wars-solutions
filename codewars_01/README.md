@@ -1,0 +1,1 @@
+This is the solution for codewars FIXME: Replace all dots - 8 kyu
